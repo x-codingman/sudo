@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/5/31 16:52:22。
+     1>项目“C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Sudu_solve\Sudu_solve.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013.5_pro_chs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Sudoku\Sudoku\Sudoku.cpp
+         Sudoku.cpp
+       Link:
+         D:\vs2013.5_pro_chs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Debug\Sudu_solve.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Debug\Sudu_solve.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Debug\Sudu_solve.lib" /MACHINE:X86 Debug\Sudoku.obj
+         Sudu_solve.vcxproj -> C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Debug\Sudu_solve.exe
+     1>已完成生成项目“C:\Users\Saxon\Documents\Visual Studio 2013\Projects\Sudu_solve\Sudu_solve\Sudu_solve.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.98
